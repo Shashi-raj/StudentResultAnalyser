@@ -1,2 +1,1 @@
-# StudentResultAnalyser
-This is a web based application
+# Shashi-raj

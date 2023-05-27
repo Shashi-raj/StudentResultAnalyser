@@ -1,0 +1,55 @@
+.comap{
+  padding: 40px;
+  text-align:left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin-top: 6%;
+  font-size: 15px;
+}
+.co-po1{
+
+}
+.label3{
+ padding: 10px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ padding-bottom: 20px;
+ margin-bottom: 5px;
+}
+.input3{
+width: 50%;
+padding-bottom: 5px;
+margin-bottom: 5px;
+
+}
+
+.copotable{
+  border-collapse: collapse;
+  width: 80%;
+  border: 2px solid #d3cece;
+}
+
+.header{
+  text-align:center;
+  font-weight: bold;
+}
+.head {
+  text-align: center;
+  padding: 5px ;
+  font-weight: bold;
+  width: 25px
+
+}
+.col_input{
+  width:50px;
+}
+.dropdown2{
+  padding-right: 2rem;
+}
+.head:nth-child(even) {
+  background-color: #dddddd;
+}
+.button1{
+  margin-top: 15px;
+   border: 1px solid;
+   border-radius: 5px;
+   width: 5rem;
+}
